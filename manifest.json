@@ -1,0 +1,10 @@
+{
+  "name": "G37 Garage",
+  "short_name": "G37 Garage",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#171714",
+  "theme_color": "#ff5a36",
+  "description": "Maintenance and build planner for a 2008 Infiniti G37 Sport Coupe",
+  "icons": []
+}
